@@ -1,6 +1,6 @@
 # Hata Yönetimi(Try-Catch-Finally)
 
-     ```c
+     
 try
     {
      Console.WriteLine("bir sayı giriniz:");
@@ -51,4 +51,4 @@ try
 
        }
     
-      ```
+      
