@@ -1,6 +1,6 @@
 # Hata Yönetimi(Try-Catch-Finally)
 
-     ```
+     ```csharp
 try
     {
      Console.WriteLine("bir sayı giriniz:");
